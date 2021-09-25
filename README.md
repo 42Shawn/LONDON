@@ -9,7 +9,7 @@ Please cite our paper if you find it useful in your research:
 ```
 @inproceedings{shang2021london,    
   title={Lipschitz Continuity Guided Knowledge Distillation},    
-  author={Yuzhang, Shang and Bin, Duan and Ziliang, Zong and Liqiang, Nie and Yan, Yan},    
+  author={Shang, Yuzhang and Duan, Bin and Zong, Ziliang and Nie, Liqiang and Yan, Yan},    
   booktitle={ICCV},    
   year={2021}    
 }
