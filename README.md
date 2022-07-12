@@ -11,7 +11,7 @@ cd LONDON/ImageNet
 ```
 Then, run our repo:
 ```bash
-python train_with_distillation_london.py 
+python train_with_distillation_london.py --data_path='path-to-imagenet' --gpu_id='0,1,2,3' --alpha=2000
 ```
 
 ## Citation
