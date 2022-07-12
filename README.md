@@ -1,7 +1,7 @@
 # LONDON: Lipschitz Continuity Guided Knowledge Distillation
 This is the official pytorch implementation for paper: Lipschitz Continuity Guided Knowledge Distillation, which is accepted by ICCV2021([paper](https://arxiv.org/abs/2108.12905)).    
 
-<img src="pipeline.jpg" width="800">
+<img src="pipeline.jpg" width="960">
 
 ## Quick Start
 
