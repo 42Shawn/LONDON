@@ -4,6 +4,15 @@ This is the official pytorch implementation for paper: Lipschitz Continuity Guid
 <img src="pipeline.jpg" width="960">
 
 ## Quick Start
+First, download our repo:
+```bash
+git clone https://github.com/42Shawn/LONDON.git
+cd LONDON/imagenet
+```
+Then, run our repo:
+```bash
+python main.py 
+```
 
 ## Citation
 Please cite our paper if you find it useful in your research:
