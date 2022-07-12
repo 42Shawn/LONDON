@@ -7,11 +7,11 @@ This is the official pytorch implementation for paper: Lipschitz Continuity Guid
 First, download our repo:
 ```bash
 git clone https://github.com/42Shawn/LONDON.git
-cd LONDON/imagenet
+cd LONDON/ImageNet
 ```
 Then, run our repo:
 ```bash
-python main.py 
+python train_with_distillation_london.py 
 ```
 
 ## Citation
